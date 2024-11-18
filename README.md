@@ -4,5 +4,8 @@ All the pull request you send to this repository will be merged. Just try it out
 ---
 
 
-### My First Pull Request. Please merge it.
+### Just Fork this repository and send the Pull Request.
 
+---
+
+### My First Pull Request. Please merge it.
