@@ -1,6 +1,6 @@
-# Welcome to Practice-Pull-Reqest - The Contribution & Collaboration Learning Repository! 🌟
+# 🎉 Welcome to the Ultimate GitHub Collaboration Playground! 🎉
 
-This repository is designed to help developers learn and practice **pull requests**, **contributions**, and **collaboration** on GitHub. Whether you're new to GitHub or just want to sharpen your skills, you're in the right place!
+This repository is created to help the students to learn and practice **pull requests**, **contributions**, and **collaboration** on GitHub.
 
 ## ✨ What You Can Do Here
 - **Learn GitHub Basics**: Understand how to fork, clone, and push changes.
@@ -17,13 +17,17 @@ Follow these simple steps to contribute:
 ### 2. Clone Your Fork
 - Clone the forked repository to your local machine:
   ```bash
-  git clone https://github.com/YajneshKumar2004/Practice-Pull-Request
-  cd Practice-Pull-Request
+  git clone https://github.com/YajneshKumar2004/GitHub-Practice
+  cd GitHub-Practice
 
 ### 3. Create a New Branch
 - Create a branch for your changes:
   ```bash
-  git checkout -b <branch-name>
+  git branch <your-branch-name>
+
+- Then switch to the new branch you created
+  ```bash
+  git checkout <your-branch-name>
 
 ### 4. Make Changes
 - Stage and commit your changes:
@@ -32,9 +36,9 @@ Follow these simple steps to contribute:
    git commit -m "Added my contribution"
 
 ### 5. Push Your Changes
-- Push the changes to your forked repository:
+- Push the changes to your forked repositogitry:
   ```bash
-  git push origin my-feature-branch
+  git push origin <your-branch-name>
 
 ### 6. Create a Pull Request
 - Go to your forked repository on GitHub and click on the Pull Request button.
