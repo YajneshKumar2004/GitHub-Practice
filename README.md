@@ -1,6 +1,6 @@
-# 🎉 Welcome to the Ultimate GitHub Collaboration Playground! 🎉
+# 🎉 Welcome to the GitHub Collaboration Playground! 🎉
 
-This repository is created to help the students to learn and practice **pull requests**, **contributions**, and **collaboration** on GitHub.
+This repository is created to help the students learn and practice pull requests, contributions, and collaboration on GitHub.
 
 ## ✨ What You Can Do Here
 - **Learn GitHub Basics**: Understand how to fork, clone, and push changes.
@@ -36,7 +36,7 @@ Follow these simple steps to contribute:
    git commit -m "Added my contribution"
 
 ### 5. Push Your Changes
-- Push the changes to your forked repositogitry:
+- Push the changes to your forked repository:
   ```bash
   git push origin <your-branch-name>
 
