@@ -17,6 +17,11 @@ Follow these simple steps to contribute:
 ### 2. Clone Your Fork
 - Clone the forked repository to your local machine:
   ```bash
+  git clone <your forked repo clone link >
+  cd <forked repo name> 
+
+- Example:
+  ```bash
   git clone https://github.com/YajneshKumar2004/GitHub-Practice
   cd GitHub-Practice
 
