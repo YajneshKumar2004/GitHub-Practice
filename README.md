@@ -20,7 +20,7 @@ Follow these simple steps to contribute:
   git clone <your forked repo clone link >
   cd <forked repo name> 
 
-- Example:
+- Example (If this repo is my forked repo then the command will be):
   ```bash
   git clone https://github.com/YajneshKumar2004/GitHub-Practice
   cd GitHub-Practice
@@ -46,13 +46,13 @@ Follow these simple steps to contribute:
   git push origin <your-branch-name>
 
 ### 6. Create a Pull Request
-- Go to your forked repository on GitHub and click on the Pull Request button.
+- Go to your forked repository on GitHub and click the Pull Request button.
 - Submit the pull request to this repository.
 
 --- 
 
 ### 🤝 Why This Repository?
-- This repository is here to:
-  - Provide a safe and supportive space for learning.
-  - Encourage open-source contributions.
-  - Build confidence in GitHub workflows.
+This repository is created to:
+- Provide a supportive space for learning.
+- Encourage open-source contributions.
+- Build confidence in GitHub workflows.
