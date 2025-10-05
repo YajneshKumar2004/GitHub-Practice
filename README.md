@@ -1,4 +1,4 @@
-# 🎉 Welcome to the GitHub Collaboration Playground! 🎉
+# 🎉 Welcome to the GitHub Collaboration
 
 This repository is created to help the students learn and practice pull requests, contributions, and collaboration on GitHub.
 
